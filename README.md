@@ -1,2 +1,1 @@
-# CP-LAB
-Computer Programing-2nd Semester 
+#Computer Programing-2nd Semester 
